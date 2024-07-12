@@ -1,0 +1,4 @@
+﻿com.samsung.shealth.goal_history,6266001,1
+update_time,create_time,type,time_offset,deviceuuid,pkg_name,set_time,controller_id,datauuid
+2018-10-09 00:12:31.047,2018-10-09 00:12:31.047,1,UTC-0300,87RAVxanZM,com.sec.android.app.shealth,1539043934001,goal.activity,df8b1560-4fa5-49d9-8f49-db8b5d11c636,
+2020-03-12 21:41:18.541,2020-03-12 21:41:18.541,1,UTC-0300,87RAVxanZM,com.sec.android.app.shealth,1584049278369,goal.activity,ae0f1153-84a3-4360-9f5c-7ddf0cf2bde4,

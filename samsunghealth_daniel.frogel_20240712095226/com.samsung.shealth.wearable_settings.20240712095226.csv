@@ -1,0 +1,5 @@
+﻿com.samsung.shealth.wearable_settings,6266001,2
+text_value,create_sh_ver,float_value,modify_sh_ver,update_time,create_time,long_value,key,blob_value,int_value,deviceuuid,pkg_name,double_value,datauuid
+,,,,2021-01-01 19:13:08.800,2020-12-25 16:42:39.749,,hrm_auto_measure,,1,rCXGezyjDZ,com.sec.android.app.shealth,,rCXGezyjDZ-nI7l5+TN04,
+,,,,2021-01-01 19:12:32.452,2020-12-25 16:42:41.098,,hrm_elevated_hr,,1,rCXGezyjDZ,com.sec.android.app.shealth,,rCXGezyjDZ-Dgmvd73SIA,
+,,,,2021-01-01 19:12:32.484,2020-12-25 16:42:41.132,,hrm_elevated_hr_alerts,,120,rCXGezyjDZ,com.sec.android.app.shealth,,rCXGezyjDZ-q94941EHOz,

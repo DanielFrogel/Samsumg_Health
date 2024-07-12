@@ -1,0 +1,7 @@
+﻿com.samsung.health.device_profile,6266001,7
+manufacturer,providing_step_goal,create_sh_ver,step_source_group,device_type,backsync_step_goal,capability,modify_sh_ver,device_group,update_time,create_time,name,model,connectivity_type,deviceuuid,pkg_name,fixed_name,datauuid
+Samsung,,,,,,,,360001,2018-10-09 00:12:29.108,2018-10-09 00:12:29.108,My Device,SM-J530G,,87RAVxanZM,com.sec.android.app.shealth,Galaxy J5 Pro,38fafd79-f043-e924-8676-17ea78e0f689,
+Combined,,,,,,,,0,2018-10-09 00:12:29.359,2018-10-09 00:12:29.359,Combined,Combined,,VfS0qUERdZ,com.sec.android.app.shealth,Galaxy J5 Pro,7af9722c-cd99-07b7-853a-43ce58e819c5,
+all_target,,,,,,,,0,2018-10-09 00:12:30.789,2018-10-09 00:12:30.789,all_target,all_target,,Mk66SbFqK1,com.sec.android.app.shealth,Galaxy J5 Pro,471ca32b-a665-1e9e-7c27-7ac69485dc05,
+Samsung Electronics,1,,21,10048,1,771a3a36-0d9d-cae7-6d2e-0cf7a2015880.capability.json,,360003,2023-04-11 17:02:45.070,2020-12-25 10:15:48.030,Galaxy Fitⓔ,,,rCXGezyjDZ,com.sec.android.app.shealth,Galaxy J5 Pro,771a3a36-0d9d-cae7-6d2e-0cf7a2015880,
+Samsung Electronics,,,,,,,,360003,2023-10-05 22:07:22.597,2023-10-05 22:07:22.597,Strava,www.strava.com,,LmLIi2hQJK,com.sec.android.app.shealth,Galaxy J5 Pro,58860b70-e200-5206-69ce-7df933f32382,
